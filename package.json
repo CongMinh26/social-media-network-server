@@ -1,0 +1,9 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "A mini social network for CMXM",
+  "main": "src/server.ts",
+  "repository": "https://github.com/CongMinh26/social-media-network-server.git",
+  "author": "MinhNC <congminhad1999@gmail.com>",
+  "license": "MIT"
+}
